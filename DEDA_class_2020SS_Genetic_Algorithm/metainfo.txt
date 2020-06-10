@@ -1,0 +1,12 @@
+Name of Quantlet: 'DEDA_class_2020SS_Genetic_Algorithm'
+
+Published in: DEDA_Class_2019SS
+
+Description: 'R codes used for talk on GA'
+
+Keywords: genetic algorithm
+
+Author: Ang Li
+
+Submitted: Jun. 6th 2020 by Ang Li
+
