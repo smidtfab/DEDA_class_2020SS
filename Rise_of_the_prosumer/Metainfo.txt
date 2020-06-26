@@ -1,0 +1,33 @@
+
+Name of Quantlet: 'Rise_of_the_prosumer'
+
+Published in: 'DEDA_clas_2020SS'
+
+Description: 'Simulation of a battery connected to a Microgrid with different sizes, pricing mechanism for Microgrid, evaluation of profitability of Microgrid by comparing benefits with and without battery to cost of the battery'
+
+Keywords: 'energy consumption, energy production, net load, battery simulation, line graph, pricing mechanism, economic evaluation'
+
+Author: 'Anna-Lena Hock'
+
+See also: ' - BLEMdataGlimpse
+            - BLEMevaluateEnergyPreds
+            - BLEMevaluateMarketSim
+            - BLEMmarketSimulation
+            - BLEMplotEnergyData
+            - BLEMplotEnergyPreds
+            - BLEMplotPredErrors
+            - BLEMpredictLASSO
+            - BLEMpredictLSTM
+            - BLEMpredictNaive
+            - BLEMtuneLSTM
+            - BLEMplotScalingForLSTM'
+
+Submitted:  '26.06.2020'
+
+Datafile:
+- 100 consumer datasets (named "consumer-00000xxx.csv")
+- 100 prosumer datasets (named "producer-00000xxx.csv")
+
+Input: 100 consumer/prosumer data sets containing energy consumption/production in 3-minute intervals for one year (2017)
+
+Output: csv-files containing simulation results, plots of consumer/prosumer's energy consumption/production, plot of battery simulation
