@@ -1,0 +1,12 @@
+
+Name of Quantlet: 'DEDA_2020SS_Cryptos_in_Portfolio_Management'
+
+Published in: 'DEDA class 2020SS'
+
+Description: 'Investigation of benefits of introducing crytocurrencies in a traditial portfolio allocation'
+
+Keywords: 'returns, CRIX, cryptocurrency, portfolio-management'
+
+Author: 'Yuliya Gustap, Arash Moussavi'
+
+Submitted: '29. June 2020, Yuliya Gustap'
