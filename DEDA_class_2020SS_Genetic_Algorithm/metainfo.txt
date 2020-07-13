@@ -6,11 +6,11 @@ Description: 'R codes used for a DEDA talk on GA. The first part shows how canon
 the second part is Linear Regression using a default dataset in R.'
 
 Keywords: 
--Genetic Algorithm
--Canonical GA
--Linear Regression
--R
--'R Built-in Data Sets'
+- Genetic Algorithm
+- Canonical GA
+- Linear Regression
+- R
+- 'R Built-in Data Sets'
 
 Author: Ang Li
 
