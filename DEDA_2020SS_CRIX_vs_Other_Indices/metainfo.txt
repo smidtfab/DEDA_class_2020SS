@@ -1,0 +1,14 @@
+
+Name of Quantlet: 'DEDA_2020SS_CRIX_vs_Other_Indices'
+
+Published in: 'DEDA class 2020SS'
+
+Description: 'Comparison of the performance of CRIX against other cryptocurreny indices and the total crypto market.'
+
+Keywords: 'CRIX, total market, values, returns, correlation'
+
+Author: 'Davide Balistreri, Vafa Ganbarova'
+
+Submitted:  '23. July 2020, Vafa Ganbarova, Davide Balistreri'
+
+Datafile: 'indices.xlsx'
