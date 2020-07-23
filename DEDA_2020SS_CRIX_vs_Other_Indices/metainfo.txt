@@ -9,6 +9,6 @@ Keywords: 'CRIX, total market, values, returns, correlation'
 
 Author: 'Davide Balistreri, Vafa Ganbarova'
 
-Submitted:  '07. July 2020, Vafa Ganbarova, Davide Balistreri'
+Submitted:  '23. July 2020, Vafa Ganbarova, Davide Balistreri'
 
 Datafile: 'indices.xlsx'
