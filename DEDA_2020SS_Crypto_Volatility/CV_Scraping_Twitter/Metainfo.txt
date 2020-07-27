@@ -1,0 +1,10 @@
+
+Name of Quantlet: 'scrape_for_day'
+
+Published in: 'DEDA_Class_2020SS'
+
+Description: 'Scrapes historical twitter data for keywords bitcoin and BTC using API access'
+
+Keywords: 'scraping, bitcoin, time series, crypto, api, tweets, twitter'
+
+Author: 'Fabian Schmidt'
