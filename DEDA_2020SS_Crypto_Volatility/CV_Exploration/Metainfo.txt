@@ -1,0 +1,10 @@
+
+Name of Quantlet: 'eda'
+
+Published in: 'DEDA_Class_2020SS'
+
+Description: 'Exploratory Data Analysis for the final data frame that consists of tweet sentiments, google trend and market data'
+
+Keywords: 'EDA, Sentiments, Exploration, Trends, Cryptocurrencies, Time Series'
+
+Author: 'Fabian Schmidt'

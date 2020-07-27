@@ -1,0 +1,10 @@
+
+Name of Quantlet: 'csv_merger'
+
+Published in: 'DEDA_Class_2020SS'
+
+Description: 'Creates the csv that will be read into create_final_df. All daily tweets will be aggregated monthly and then concatted into one csv file'
+
+Keywords: 'Tweets, Trends, merge, aggregation, consolidation'
+
+Author: 'Fabian Schmidt'

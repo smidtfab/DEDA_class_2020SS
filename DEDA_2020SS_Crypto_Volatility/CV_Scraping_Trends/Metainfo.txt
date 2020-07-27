@@ -1,0 +1,10 @@
+
+Name of Quantlet: 'trends_hourly_scraper'
+
+Published in: 'DEDA_Class_2020SS'
+
+Description: 'Scrapes google trends data for keywords bitcoin and BTC using API access'
+
+Keywords: 'scraping, bitcoin, time series, crypto, api, google, trends'
+
+Author: 'Fabian Schmidt'
