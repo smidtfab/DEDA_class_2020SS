@@ -1,7 +1,6 @@
-DEDA_2020_Sentiment-Analysis-of-Cryptocurriencies-
-Name of Quantlet: '20200710 Sentiment Analysis of Cryptocurrencies (DEDA 2020) 2'
+Name of Quantlet: 'DEDA_2020_Sentiment-Analysis-of-Cryptocurriencies'
 Published in: 'DEDA class 2020SS'
 Description: 'This Project uses Twitter API to analyse the sentiments of Cryptocurriencies '
 Keywords: 'Sentiment-Analysis, Sentiment, CRIX, Bitcoin, cryptocurrency'
 Author: 'Sukanya Bhattacharyya, Shubham Senger'
-Submitted: '23. July 2020'
+Submitted: '30. July 2020'
