@@ -1,0 +1,9 @@
+Name of Quantlet: 'P2P_Case_Study'
+
+Published in: 'DEDA Class SS2020'
+
+Description: 'Illustration of possible behaviour of LTV Ratios in a Crypto-based P2P Lending contract using historical Bitcoin prices'
+
+Keywords: 'bitcoin, crypto collateral, p2p lending, ltv ratio, collateralized loans'
+
+Author: 'Ramona Merkl'
