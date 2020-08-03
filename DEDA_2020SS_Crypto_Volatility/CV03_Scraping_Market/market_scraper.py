@@ -10,7 +10,7 @@ def get_historical_hourly_price(
         exchange=''):
     """
     Get the historical OHCL of a certain symbol pair for a certain
-    exchange
+    exchange. Based on https://github.com/Vanclief/algo-trading-crypto/tree/747fae28a79458bbabd8ec2ca28a7f8191f64efa 
     """
     url = 'https://min-api.cryptocompare.com/data/histohour?fsym={}&tsym={}&limit={}&aggregate={}'\
             .format(symbol.upper(), comparison_symbol.upper(), limit, aggregate)
@@ -42,8 +42,7 @@ if __name__ == '__main__':
     args = parse_args()
     TIME_DELTA = 1
     hours = int(args.days) * 24
-    file_name = 'data/' + args.s1 + '-' + args.s2 + '-' + str(args.days) + '.csv'
+    file_name = '../data/Market/' + args.s1 + '-' + args.s2 + '-' + str(args.days) + '.csv'
     market_data = get_historical_hourly_price(args.s1, args.s2, hours, TIME_DELTA)
     print(f"Saving df to {file_name}")
     market_data.to_csv(file_name)
-    print(market_data)
