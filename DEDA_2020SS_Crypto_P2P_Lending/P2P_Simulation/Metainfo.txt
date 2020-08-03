@@ -1,4 +1,4 @@
-Name of Quantlet: 'DEDA_SS2020_Crypto_P2P_Lending_Simulation'
+Name of Quantlet: 'P2P_Simulation'
 
 Published in: 'DEDA Class SS2020'
 
