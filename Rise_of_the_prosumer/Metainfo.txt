@@ -22,7 +22,7 @@ See also: ' - BLEMdataGlimpse
             - BLEMtuneLSTM
             - BLEMplotScalingForLSTM'
 
-Submitted:  '26.06.2020'
+Submitted:  '06.08.2020'
 
 Datafile:
 - 100 consumer datasets (named "consumer-00000xxx.csv")
