@@ -16,3 +16,20 @@ Keywords: 'bitcoin, crypto collateral, p2p lending, ltv ratio, SVCJ'
 Author: 'Ramona Merkl'
 
 ```
+
+![Picture1](fig1.png)
+
+![Picture2](fig2.png)
+
+![Picture3](fig3.png)
+
+![Picture4](fig4.png)
+
+![Picture5](fig5.png)
+
+![Picture6](fig6.png)
+
+### [IPYNB Code: P2P_Simulation.ipynb](P2P_Simulation.ipynb)
+
+
+automatically created on 2020-08-05
