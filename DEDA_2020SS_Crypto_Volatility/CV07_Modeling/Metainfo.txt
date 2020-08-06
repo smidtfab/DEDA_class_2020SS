@@ -1,0 +1,10 @@
+
+Name of Quantlet: 'models'
+
+Published in: 'DEDA_Class_2020SS'
+
+Description: 'Models for the crypto volatility analysis'
+
+Keywords: 'Models, Sentiments, Predictions, Trends, Cryptocurrencies, Time Series'
+
+Author: 'Fabian Schmidt'
