@@ -3,7 +3,7 @@ Name of Quantlet: ‘Energy_Prosumer_3_Market_Simulation_with_Battery’
 
 Published in: 'DEDA_class_2020SS'
 
-Description: 'In script 3 on market simulation with a battery, battery charging and discharging rates in a microgrid with a battery and the supply demand ratio are calculated. Energy prices are then determined using the current tariffs in Germany and energy bills are calculated using a P2P pricing mechanism. The economic profitability of the microgrid is evaluated via self-consumption rates, self-sufficiency of the grid and a comparison of costs for the participants with and without P2P trading.'
+Description: 'Market simulation with a battery in a microgrid, battery charging and discharging rates in a microgrid with a battery and the supply demand ratio are calculated. Energy prices are then determined using the current tariffs in Germany and energy bills are calculated using a P2P pricing mechanism. The economic profitability of the microgrid is evaluated via self-consumption rates, self-sufficiency of the grid and a comparison of costs for the participants with and without P2P trading.'
 
 Keywords: 'energy consumption, energy production, net load, battery simulation, line graph, boxplot, pricing mechanism, economic evaluation'
 
