@@ -89,3 +89,12 @@ $ cd ../CV05_Preprocessing
 ```
 
 Open create_final_df_example.ipynb and run the notebook code with example data. **create_final_df.ipynb can only be run with the complete data set, which is not available in the repository due to the file size being to large.** The three components that have been scraped before will be merged and sentiment analysis will be performed. The output will be stored in ../data/btc_final.csv
+
+### EDA 
+Navigate to directory 
+
+```bash
+$ cd ../CV06_EDA
+```
+
+Run the eda_example.ipynb notebook to explore the data. **eda.ipynb can only be run with the complete data set, which is not available in the repository due to the file size being to large.** Plots will be stored in the same folder.
