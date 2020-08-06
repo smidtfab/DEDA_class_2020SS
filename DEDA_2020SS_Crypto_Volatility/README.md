@@ -39,7 +39,7 @@ $ sh scrape_for_day.sh
 
 The output will be stored in the ../data/Tweets/by_day folder.
 
-## Scrape trends
+### Scrape trends
 
 Navigate to directory 
 
@@ -52,7 +52,7 @@ To run
 python3 trends_hourly_scraper.py 
 ```
 
-## Srape market
+### Srape market
 
 Navigate to directory 
 
@@ -67,5 +67,17 @@ python market_scraper.py --s1 BTC --s2 USD --days 80
 
 The output will be stored in the ../data/Market folder. Unfortunately, it is only possible to query historical prices for 80 days in the past.
 
+### Merge Tweets
+Navigate to directory 
 
+```bash
+$ cd ../CV04_Merging_Tweets
+```
+
+Specify the months you want to consolidate e.g. months = ['01']. To run
+```python
+python3 csv_merger.py
+```
+
+All tweets for every corresponding month will be stored in ../data/Tweets/by_month for and all tweets over all specified month in ../data/Tweets/ combined_tweets.csv
 
