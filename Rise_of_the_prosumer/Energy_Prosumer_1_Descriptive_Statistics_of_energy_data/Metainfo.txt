@@ -11,8 +11,7 @@ Author: 'Anna-Lena Hock and Sabrina Daun'
 
 See also: ' - Energy_Prosumer_2_Battery_Simulation
             - Energy_Prosumer_3_Market_Simulation_with_Battery
-            - Energy_Prosumer_4_Market_Simulation_without_Battery
-            - BLEMplotEnergyData'
+            - Energy_Prosumer_4_Market_Simulation_without_Battery'
 
 Submitted:  '06.08.2020'
 
