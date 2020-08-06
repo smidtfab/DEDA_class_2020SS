@@ -1,5 +1,7 @@
 # Crypto Volatility
-Scraping of predictors for crypto volatility, visualization
+Scraping of predictors for crypto volatility, visualization and modeling. 
+
+[Link to complete dataset](https://drive.google.com/file/d/12LXOGXLKuEsOxRz89lva5f4ZeIqTCZhI/view?usp=sharing)
 
 ## Development Setup
 
