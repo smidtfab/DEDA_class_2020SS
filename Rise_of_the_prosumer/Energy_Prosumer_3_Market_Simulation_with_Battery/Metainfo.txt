@@ -20,7 +20,7 @@ Datafile:
 - 100 consumer datasets (named "consumer-00000xxx.csv")
 - 100 prosumer datasets (named "producer-00000xxx.csv")
 
-Input: csv-files containing energy production data in 15-minute time interval, self-consumption of prosumers, net production of prosumers, consumption of consumers,  aggregate production and consumption
+Input: csv-files containing energy production data in 15-minute time interval, self-consumption of prosumers, net production of prosumers, consumption of consumers,  aggregate production and consumption, net load and battery simulation
 
 Output: csv-files containing the interaction with the grid, the demand covered by the community grid, the battery charging power, the battery discharging power, 
 the supply demand ratio, the energy selling and buying prices, the self-consumption rate of the grid, the self-sufficiency of the grid, the cost of the community energy, 
