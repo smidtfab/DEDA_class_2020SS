@@ -1,5 +1,5 @@
 
-Name of Quantlet: 'eda'
+Name of Quantlet: 'CV06_Exploration'
 
 Published in: 'DEDA_Class_2020SS'
 

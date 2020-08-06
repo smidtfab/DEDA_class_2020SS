@@ -1,5 +1,5 @@
 
-Name of Quantlet: 'csv_merger'
+Name of Quantlet: 'CV04_Merging_Tweets'
 
 Published in: 'DEDA_Class_2020SS'
 

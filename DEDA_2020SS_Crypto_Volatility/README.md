@@ -34,7 +34,7 @@ To run
 
 ```bash
 $ cd CV01_Scraping_Twitter
-$ sh scrape_for_day.sh
+$ sh CV01_Scraping_Twitter.sh
 ```
 
 The output will be stored in the ../data/Tweets/by_day folder.
@@ -49,7 +49,7 @@ $ cd ../CV02_Scraping_Trends
 
 To run 
 ```python
-python3 trends_hourly_scraper.py 
+python3 CV02_Scraping_Trends.py 
 ```
 
 ### Srape market
@@ -62,7 +62,7 @@ $ cd ../CV03_Scraping_Market
 
 Specify the key, currency and number of days and run 
 ```python
-python market_scraper.py --s1 BTC --s2 USD --days 80
+python CV03_Scraping_Market.py --s1 BTC --s2 USD --days 80
 ```
 
 The output will be stored in the ../data/Market folder. Unfortunately, it is only possible to query historical prices for 80 days in the past.
@@ -76,7 +76,7 @@ $ cd ../CV04_Merging_Tweets
 
 Specify the months you want to consolidate e.g. months = ['01']. To run
 ```python
-python3 csv_merger.py
+python3 CV04_Merging_Tweets.py
 ```
 
 All tweets for every corresponding month will be stored in ../data/Tweets/by_month for and all tweets over all specified month in ../data/Tweets/combined_tweets.csv
@@ -88,13 +88,13 @@ Navigate to directory
 $ cd ../CV05_Preprocessing
 ```
 
-Open create_final_df_example.ipynb and run the notebook code with example data. **create_final_df.ipynb can only be run with the complete data set, which is not available in the repository due to the file size being to large.** The three components that have been scraped before will be merged and sentiment analysis will be performed. The output will be stored in ../data/btc_final.csv
+Open CV05_Preprocessing_example.ipynb and run the notebook code with example data. **CV05_Preprocessing.ipynb can only be run with the complete data set, which is not available in the repository due to the file size being to large.** The three components that have been scraped before will be merged and sentiment analysis will be performed. The output will be stored in ../data/btc_final.csv
 
 ### EDA 
 Navigate to directory 
 
 ```bash
-$ cd ../CV06_EDA
+$ cd ../CV06_Exploration
 ```
 
-Run the eda_example.ipynb notebook to explore the data. **eda.ipynb can only be run with the complete data set, which is not available in the repository due to the file size being to large.** Plots will be stored in the same folder.
+Run the CV06_Exploration_example.ipynb notebook to explore the data. **CV06_Exploration.ipynb can only be run with the complete data set, which is not available in the repository due to the file size being to large.** Plots will be stored in the same folder.

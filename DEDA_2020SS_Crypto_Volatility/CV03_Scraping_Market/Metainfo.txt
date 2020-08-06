@@ -1,5 +1,5 @@
 
-Name of Quantlet: 'market_scraper'
+Name of Quantlet: 'CV03_Scraping_Market'
 
 Published in: 'DEDA_Class_2020SS'
 

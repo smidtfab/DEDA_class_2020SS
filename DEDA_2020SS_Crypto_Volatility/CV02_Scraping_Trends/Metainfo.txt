@@ -1,5 +1,5 @@
 
-Name of Quantlet: 'trends_hourly_scraper'
+Name of Quantlet: 'CV02_Scraping_Trends'
 
 Published in: 'DEDA_Class_2020SS'
 

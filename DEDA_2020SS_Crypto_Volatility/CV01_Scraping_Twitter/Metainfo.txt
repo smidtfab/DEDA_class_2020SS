@@ -1,5 +1,5 @@
 
-Name of Quantlet: 'scrape_for_day'
+Name of Quantlet: 'CV01_Scraping_Twitter'
 
 Published in: 'DEDA_Class_2020SS'
 
