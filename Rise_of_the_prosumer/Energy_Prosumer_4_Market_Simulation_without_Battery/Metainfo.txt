@@ -1,0 +1,27 @@
+
+Name of Quantlet: ‘Energy_Prosumer_4_Market_Simulation_without_Battery’ 
+
+Published in: 'DEDA_class_2020SS'
+
+Description: 'Market simulation without battery in microgrid, the procedure is the same as in script 3 except for not including a battery in the microgrid. Again the supply demand ratio is calculated.  Energy prices are then determined using the current tariffs in Germany and energy bills are calculated using a P2P pricing mechanism. The economic profitability of the microgrid is evaluated via self-consumption rates,  self-sufficiency of the grid and the cost of community energy as well as individual energy bills.’  
+
+Keywords: 'energy consumption, energy production, net load, line graph, pricing mechanism, economic evaluation'
+
+Author: 'Anna-Lena Hock and Sabrina Daun'
+
+See also: ' - Energy_Prosumer_1_Descriptive_Statistics_of_energy_data
+            - Energy_Prosumer_2_Battery_Simulation
+            - Energy_Prosumer_3_Market_Simulation_with_Battery
+            - BLEMplotEnergyData'
+
+Submitted:  '06.08.2020'
+
+Datafile:
+- 100 consumer datasets (named "consumer-00000xxx.csv")
+- 100 prosumer datasets (named "producer-00000xxx.csv")
+
+Input: csv-files containing energy production data in 15-minute time interval, self-consumption of prosumers, net production of prosumers, consumption of consumers,  agregate production and consumption, net load and battery simulation
+
+Output: csv-files containing energy demand covered by production of the microgrid, the supply demand ratio with no battery, the energy selling and buying prices, the self-consumption rate of the grid, the self-sufficiency of the grid, the cost of the community energy, 
+the energy bill of the consumer in a P2P model, energy prices; 
+the plotted self-consumption rate of the grid, the plotted self-sufficiency of the grid, the plotted energy bill of the consumer in a P2P model, the plotted P2P energy sharing in summer

@@ -1,0 +1,29 @@
+
+Name of Quantlet: ‘Energy_Prosumer_3_Market_Simulation_with_Battery’ 
+
+Published in: 'DEDA_class_2020SS'
+
+Description: 'Market simulation with a battery in a microgrid, battery charging and discharging rates in a microgrid with a battery and the supply demand ratio are calculated. Energy prices are then determined using the current tariffs in Germany and energy bills are calculated using a P2P pricing mechanism. The economic profitability of the microgrid is evaluated via self-consumption rates, self-sufficiency of the grid and a comparison of costs for the participants with and without P2P trading.'
+
+Keywords: 'energy consumption, energy production, net load, battery simulation, line graph, boxplot, pricing mechanism, economic evaluation'
+
+Author: 'Anna-Lena Hock and Sabrina Daun'
+
+See also: ' - Energy_Prosumer_1_Descriptive_Statistics_of_energy_data
+            - Energy_Prosumer_2_Battery_Simulation
+            - Energy_Prosumer_4_Market_Simulation_without_Battery
+            - BLEMplotEnergyData'
+
+Submitted:  '06.08.2020'
+
+Datafile:
+- 100 consumer datasets (named "consumer-00000xxx.csv")
+- 100 prosumer datasets (named "producer-00000xxx.csv")
+
+Input: csv-files containing energy production data in 15-minute time interval, self-consumption of prosumers, net production of prosumers, consumption of consumers,  aggregate production and consumption, net load and battery simulation
+
+Output: csv-files containing the interaction with the grid, the demand covered by the community grid, the battery charging power, the battery discharging power, 
+the supply demand ratio, the energy selling and buying prices, the self-consumption rate of the grid, the self-sufficiency of the grid, the cost of the community energy, 
+the energy bill of the consumer in a P2G model, the energy bill of the prosumer in a P2G model, the energy bill of the consumer in a P2P model, energy prices; 
+the plotted self-consumption rate of the grid, the plotted self-sufficiency of the grid, the plotted energy bill of the consumer in a P2G model, the plotted energy bill of the prosumer in a P2G model,
+the plotted energy bill of the consumer in a P2P model, a grid of plots for P2P energy sharing, boxplots of energy prices

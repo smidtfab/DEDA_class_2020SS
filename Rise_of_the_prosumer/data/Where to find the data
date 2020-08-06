@@ -1,0 +1,3 @@
+please find the data at https://github.com/QuantLet/BLEM/tree/master/data
+download the data exactly as it is (still in the prosumer and consumer folders), 
+and put the prosumer and consumer folders in this data folder to not have to change the code
