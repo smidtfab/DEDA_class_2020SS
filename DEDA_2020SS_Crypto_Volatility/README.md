@@ -79,5 +79,13 @@ Specify the months you want to consolidate e.g. months = ['01']. To run
 python3 csv_merger.py
 ```
 
-All tweets for every corresponding month will be stored in ../data/Tweets/by_month for and all tweets over all specified month in ../data/Tweets/ combined_tweets.csv
+All tweets for every corresponding month will be stored in ../data/Tweets/by_month for and all tweets over all specified month in ../data/Tweets/combined_tweets.csv
 
+### Preprocessing 
+Navigate to directory 
+
+```bash
+$ cd ../CV05_Preprocessing
+```
+
+Open create_final_df_example.ipynb and run the notebook code with example data. **create_final_df.ipynb can only be run with the complete data set, which is not available in the repository due to the file size being to large.** The three components that have been scraped before will be merged and sentiment analysis will be performed. The output will be stored in ../data/btc_final.csv
